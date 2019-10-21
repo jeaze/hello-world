@@ -1,4 +1,4 @@
 # hello-world
-test reposiroty
+test repository
 
 Testing making a change to the readme
